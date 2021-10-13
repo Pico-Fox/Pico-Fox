@@ -4,7 +4,7 @@ I started software developement as a hobby in 2016 and am currently an apprentic
 
 ## Languages I speak
 
-I speak German and English. I can read cyrillic, but am not able to translate most Russian words.
+I speak German and English. I can read Cyrillic, but am not able to translate most Russian words.
 
 ## Langauges I use for my projects
 
