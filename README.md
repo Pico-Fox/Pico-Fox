@@ -22,6 +22,8 @@ I speak German and English. I can read cyrillic, but am not able to translate mo
   - VB
   - ABAP
 
+Note: I am most comfortable with Java and HTML/CSS/JS/PHP. The other languages I listed are languages I rarely use.
+
 ## Projects
 
 ### Vokabelspaß
