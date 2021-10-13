@@ -14,9 +14,10 @@ I speak German and English. I can read cyrillic, but am not able to translate mo
   - CSS
   - JS
   - PHP
-- Desktop applications and mods
+- Applications / mods / plugins / datapacks
   - Java
   - C#
+  - MC-Functions
 - At work:
   - VB
   - ABAP
@@ -25,10 +26,8 @@ I speak German and English. I can read cyrillic, but am not able to translate mo
 
 ### Vokabelspaß
 
-For a school project, I collaborated with [Zeprus](https://github.com/Zeprus), 
-[detekktivl](https://github.com/detekktivl), [Jaklo13](https://github.com/Jaklo13) and 
-[enotthoff](https://github.com/enotthoff) on an online learning game called 
-[Vokabelspaß](https://github.com/Zeprus/Vokabelspass).
+For a school project, I collaborated with my colleagues on an online 
+learning game called [Vokabelspaß](https://github.com/Zeprus/Vokabelspass).
 I will start working on a similar project soon.
 
 ### Pico's Mosca Mod
